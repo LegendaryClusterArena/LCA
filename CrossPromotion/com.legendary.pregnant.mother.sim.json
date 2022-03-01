@@ -5,8 +5,18 @@
             "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/FamilySim.png"
         },
         {
-            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.teacher.simulator",
-            "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/SchoolTeacher.jpg"
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mom.billionaire.happy.family",
+            "IconUrl": "https://github.com/LegendaryClusterArena/LCA/blob/main/CrossPromotion/Images/VirtualBusinessman.jpg"
+        }
+        ,
+        {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.billionaire.car.dealer.simulator.test",
+            "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/CarDealer.png"
+        }
+        ,
+        {
+            "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.santa.christmas.gift.delivery",
+            "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/Christmas.png"
         }
     ]
 }
