@@ -1,20 +1,24 @@
 {
     "CrossPromoUnits": [
         {
+            "GameName":"Family Sim",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.family.simulator",
             "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/FamilySim.png"
         },
         {
+            "GameName":"Business Woman",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.virtual.mom.billionaire.happy.family",
             "IconUrl": "https://github.com/LegendaryClusterArena/LCA/blob/main/CrossPromotion/Images/VirtualBusinessman.jpg"
         }
         ,
         {
+            "GameName":"Car Dealer",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.billionaire.car.dealer.simulator.test",
             "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/CarDealer.png"
         }
         ,
         {
+            "GameName":"Santa Christmas ",
             "GameUrl": "https://play.google.com/store/apps/details?id=com.legendary.santa.christmas.gift.delivery",
             "IconUrl": "https://raw.githubusercontent.com/LegendaryClusterArena/LCA/main/CrossPromotion/Images/Christmas.png"
         }
